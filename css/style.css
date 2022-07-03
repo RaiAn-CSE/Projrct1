@@ -1,0 +1,59 @@
+hr{
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+    background-color: brown;
+}
+
+p{
+    color: rgb(255, 0, 0);
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    background-color: blue;
+    height: 50%;
+    width: 50%;
+    font-style: italic;
+}
+
+#school{
+    color: blue;
+
+}
+
+.rai{
+    background-color: brown;
+}
+
+.rai1{
+    color: blue;
+}
+
+span{
+    color: rgb(38, 0, 255);
+}
+.div1{
+    background-color: rgba(0, 255, 42, 0.55);
+    border: 2px solid red;
+    border-radius: 20px;
+    margin: 10px 10px;
+    padding: 10px 30px;
+
+}
+h2{
+    text-align: center;
+}
+.div1 p{
+    text-align: center;
+    font-weight: 900;
+}
+
+.videoClass{
+    width="600";
+    height="340";
+}
